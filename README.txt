@@ -1,0 +1,1 @@
+Project created as part of the Plural Sight's Building Your First ASP.NET Core 2 MVC Application course by Gill Cleeren.
